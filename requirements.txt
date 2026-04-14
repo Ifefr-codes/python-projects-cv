@@ -1,0 +1,21 @@
+# ── Project 1: CSV Data Cleaner ───────────────────────────────────────────────
+pandas>=2.0.0
+openpyxl>=3.1.0
+reportlab>=4.0.0
+
+# ── Project 2: File Organizer ─────────────────────────────────────────────────
+watchdog>=3.0.0
+
+# ── Project 3: PDF Q&A Tool ───────────────────────────────────────────────────
+streamlit>=1.32.0
+PyPDF2>=3.0.0
+anthropic>=0.25.0
+python-dotenv>=1.0.0
+
+# ── Project 4: Dashboard ──────────────────────────────────────────────────────
+plotly>=5.20.0
+# (streamlit, pandas, openpyxl already listed above)
+
+# ── Project 5: Training Generator ────────────────────────────────────────────
+python-pptx>=0.6.21
+# (anthropic, python-dotenv already listed above)
